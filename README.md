@@ -34,6 +34,12 @@ praticando html e css
 
 
 ⬜flexbox
+
+
 ⬜grid
+
+
 ⬜media querys
+
+
 ⬜medidas css
